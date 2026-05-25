@@ -5,10 +5,10 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "newServer.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node newServer",
-    "dev": "nodemon newServer"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "dependencies": {
     "date-fns": "^4.3.0",
