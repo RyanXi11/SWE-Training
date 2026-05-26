@@ -1,0 +1,2 @@
+20260525	18:05:19	c15b41e1-89b0-4e00-b5db-30cec33047e5	Error: Not allowed by CORS
+20260525	19:31:32	eedc29ff-a65f-4679-81c2-5de2a18c530f	SyntaxError: Unexpected token '"', ""{\"firstn"... is not valid JSON
