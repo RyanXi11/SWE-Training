@@ -1,0 +1,5 @@
+20260525	18:05:19	c15b41e1-89b0-4e00-b5db-30cec33047e5	Error: Not allowed by CORS
+20260525	19:31:32	eedc29ff-a65f-4679-81c2-5de2a18c530f	SyntaxError: Unexpected token '"', ""{\"firstn"... is not valid JSON
+20260526	15:14:00	4d6bde88-f747-40a7-ab13-9eb0a7fde779	ReferenceError: currentUsers is not defined
+20260527	10:30:59	5adfd889-53ff-43f2-b360-94b591cd681a	ReferenceError: origins is not defined
+20260527	10:32:54	5860c39f-4138-4704-9f1f-5ad157bac075	ReferenceError: currentUsers is not defined
